@@ -1,0 +1,11 @@
+
+POST http://localhost:8080/users HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Gabriel",
+    "profile": "ADMIN",
+    "companyName": "Target",
+    "username": "gabrielcampoos",
+    "password": "123456"
+}

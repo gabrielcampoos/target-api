@@ -1,0 +1,4 @@
+
+GET http://localhost:8080/users?profile=ADMIN HTTP/1.1
+content-type: application/json
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiR2FicmllbCIsInByb2ZpbGUiOiJBRE1JTiIsInVzZXJuYW1lIjoiZ2FicmllbGNhbXBvb3MiLCJjb21wYW55TmFtZSI6IlRhcmdldCIsImlhdCI6MTcxMDIxMzM0OSwiZXhwIjoxNzEwMjE2OTQ5fQ.Ew-NLTJPr-3rmQjlygEghLpbAWgxiHXxeUNYeeJkn34
